@@ -1,0 +1,131 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf") format("truetype"),
+url("../fonts/flaticon.woff") format("woff"),
+url("../fonts/flaticon.woff2") format("woff2"),
+url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+url("../images/flaticon.svg#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-drugs:before {
+    content: "\f101";
+}
+.flaticon-hand-washing:before {
+    content: "\f102";
+}
+.flaticon-positive:before {
+    content: "\f103";
+}
+.flaticon-blood-donation:before {
+    content: "\f104";
+}
+.flaticon-vegetables:before {
+    content: "\f105";
+}
+.flaticon-fruits-and-vegetables:before {
+    content: "\f106";
+}
+.flaticon-handshake:before {
+    content: "\f107";
+}
+.flaticon-peace:before {
+    content: "\f108";
+}
+.flaticon-dove:before {
+    content: "\f109";
+}
+.flaticon-gift:before {
+    content: "\f10a";
+}
+.flaticon-wedding-gift:before {
+    content: "\f10b";
+}
+.flaticon-gift-box:before {
+    content: "\f10c";
+}
+.flaticon-email:before {
+    content: "\f10d";
+}
+.flaticon-planet-earth:before {
+    content: "\f10e";
+}
+.flaticon-trees:before {
+    content: "\f10f";
+}
+.flaticon-quote:before {
+    content: "\f110";
+}
+.flaticon-mission:before {
+    content: "\f111";
+}
+.flaticon-infinity:before {
+    content: "\f112";
+}
+.flaticon-note:before {
+    content: "\f113";
+}
+.flaticon-medicine:before {
+    content: "\f114";
+}
+.flaticon-diet:before {
+    content: "\f115";
+}
+.flaticon-hands:before {
+    content: "\f116";
+}
+.flaticon-esteem:before {
+    content: "\f117";
+}
+.flaticon-idea:before {
+    content: "\f118";
+}
+.flaticon-dollar-coin:before {
+    content: "\f119";
+}
+.flaticon-dollar-coin-1:before {
+    content: "\f11a";
+}
+.flaticon-dollar-coin-2:before {
+    content: "\f11b";
+}
+.flaticon-open-box:before {
+    content: "\f11c";
+}
+.flaticon-open-box-1:before {
+    content: "\f11d";
+}
+.flaticon-heart:before {
+    content: "\f11e";
+}
+.flaticon-doacao:before {
+    content: "\f11f";
+}
+.flaticon-solidariedade:before {
+    content: "\f120";
+}
+.flaticon-donation-1:before {
+    content: "\f121";
+}
+.flaticon-user:before {
+    content: "\f122";
+}
+.flaticon-user-1:before {
+    content: "\f123";
+}
+.flaticon-newspaper-folded:before {
+    content: "\f124";
+}
+.flaticon-united:before {
+    content: "\f125";
+}
