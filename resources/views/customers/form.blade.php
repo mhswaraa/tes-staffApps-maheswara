@@ -37,4 +37,5 @@
 
 <div class="form-group mt-3">
     <button type="submit" class="btn btn-success" style="background-color: #e94446; border: 2px solid #e94446;">Simpan</button>
+    <a href="/customers" class="btn btn-primary" style="background-color: #e94446; border: 2px solid #e94446;">Kembali</a>
 </div>
